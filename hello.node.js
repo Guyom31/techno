@@ -5,6 +5,8 @@
  * @version 1.0.0
  */
 
+//Je rajoute de la merde
+
 /**retourne la valeur maximum entre deux valeurs
  * @param {*} currentMax Valeur maximum courant
  * @param {*} currentValue valeur lue dans le tableau
